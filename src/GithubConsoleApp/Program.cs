@@ -6,7 +6,7 @@ namespace GithubConsoleApp
     {
         public static void Main(string[] args)
         {
-            Console.Write("Github sample application demo");
+            Console.Write("Github sample application");
             Console.ReadLine();
         }
     }
